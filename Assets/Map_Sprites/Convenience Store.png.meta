@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 48cf5b9f7e0335344af79b3a7d13b99c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2773671862024233475
+    second: Convenience Store_0
+  - first:
+      213: 1000119709089540394
+    second: Convenience Store_1
+  - first:
+      213: -4437514597509022020
+    second: Convenience Store_2
+  - first:
+      213: 1841770632830117056
+    second: Convenience Store_3
+  - first:
+      213: 664640883116724593
+    second: Convenience Store_4
+  - first:
+      213: 9050848311402499206
+    second: Convenience Store_5
+  - first:
+      213: 9161460828943861626
+    second: Convenience Store_6
+  - first:
+      213: -7873521168054873398
+    second: Convenience Store_7
+  - first:
+      213: 84392835760675556
+    second: Convenience Store_8
+  - first:
+      213: 955826420122462110
+    second: Convenience Store_9
+  - first:
+      213: -8044792768447355524
+    second: Convenience Store_10
+  - first:
+      213: -5757336379699517015
+    second: Convenience Store_11
+  - first:
+      213: 5539459859357166322
+    second: Convenience Store_12
+  - first:
+      213: 47627830479628783
+    second: Convenience Store_13
+  - first:
+      213: 3994069646446465414
+    second: Convenience Store_14
+  - first:
+      213: 6386554196272097820
+    second: Convenience Store_15
+  - first:
+      213: 5238537327745698999
+    second: Convenience Store_16
+  - first:
+      213: -292023724928365548
+    second: Convenience Store_17
+  - first:
+      213: 7655072385716279752
+    second: Convenience Store_18
+  - first:
+      213: 3909374690875276593
+    second: Convenience Store_19
+  - first:
+      213: 6115951591429596653
+    second: Convenience Store_20
+  - first:
+      213: 4090816847862307528
+    second: Convenience Store_21
+  - first:
+      213: 9206060462995912802
+    second: Convenience Store_22
+  - first:
+      213: 5148753471459208990
+    second: Convenience Store_23
+  - first:
+      213: 1090342298378534851
+    second: Convenience Store_24
+  - first:
+      213: 7966378639636834041
+    second: Convenience Store_25
+  - first:
+      213: -3927919369862094691
+    second: Convenience Store_26
+  - first:
+      213: 550376369689495058
+    second: Convenience Store_27
+  - first:
+      213: 6448331838864318898
+    second: Convenience Store_28
+  - first:
+      213: 1149692988322181057
+    second: Convenience Store_29
+  - first:
+      213: -4926195806767934985
+    second: Convenience Store_30
+  - first:
+      213: 5444683548538564317
+    second: Convenience Store_31
+  - first:
+      213: 3925369403000712804
+    second: Convenience Store_32
+  - first:
+      213: 3927404215501292941
+    second: Convenience Store_33
+  - first:
+      213: 8220910689839077020
+    second: Convenience Store_34
+  - first:
+      213: -1442542980630263607
+    second: Convenience Store_35
+  - first:
+      213: 7665845402572305357
+    second: Convenience Store_36
+  - first:
+      213: 863923735733172082
+    second: Convenience Store_37
+  - first:
+      213: -5365617881339247529
+    second: Convenience Store_38
+  - first:
+      213: -2260905342812562679
+    second: Convenience Store_39
+  - first:
+      213: -1333305358108222978
+    second: Convenience Store_40
+  - first:
+      213: 638209092518514950
+    second: Convenience Store_41
+  - first:
+      213: -4445042194897890785
+    second: Convenience Store_42
+  - first:
+      213: -8079488332985766554
+    second: Convenience Store_43
+  - first:
+      213: 4215041831385295322
+    second: Convenience Store_44
+  - first:
+      213: -5258819327662798421
+    second: Convenience Store_45
+  - first:
+      213: 5102795199317303236
+    second: Convenience Store_46
+  - first:
+      213: -1979311663256917869
+    second: Convenience Store_47
+  - first:
+      213: 7082736333681651431
+    second: Convenience Store_48
+  - first:
+      213: 134440273542900327
+    second: Convenience Store_49
+  - first:
+      213: 2696962503719736928
+    second: Convenience Store_50
+  - first:
+      213: 5141249462042282993
+    second: Convenience Store_51
+  - first:
+      213: -8693820679476157388
+    second: Convenience Store_52
+  - first:
+      213: 2284518883460554359
+    second: Convenience Store_53
+  - first:
+      213: -1918034732272633946
+    second: Convenience Store_54
+  - first:
+      213: -2760948062056752267
+    second: Convenience Store_55
+  - first:
+      213: -7262791385533028221
+    second: Convenience Store_56
+  - first:
+      213: 6349146828689442675
+    second: Convenience Store_57
+  - first:
+      213: -9005417942566521370
+    second: Convenience Store_58
+  - first:
+      213: 6060390523882029187
+    second: Convenience Store_59
+  - first:
+      213: -1227296090371240809
+    second: Convenience Store_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Convenience Store_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 271
+        width: 146
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd9c841320f189d0800000000000000
+      internalID: -2773671862024233475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 271
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a292629939321ed00800000000000000
+      internalID: 1000119709089540394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 271
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3dd90cf7ca62c0800000000000000
+      internalID: -4437514597509022020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 271
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4e597e1a84f8910800000000000000
+      internalID: 1841770632830117056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 146
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171df5d9c57493900800000000000000
+      internalID: 664640883116724593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 223
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0715f5921b9d70800000000000000
+      internalID: 9050848311402499206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 223
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77cadc951c042f70800000000000000
+      internalID: 9161460828943861626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_7
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2129e9632abb290800000000000000
+      internalID: -7873521168054873398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea5a1546d2db2100800000000000000
+      internalID: 84392835760675556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97255e9017c34d00800000000000000
+      internalID: 955826420122462110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756019a9972b5090800000000000000
+      internalID: -8044792768447355524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a39bf015d910b0800000000000000
+      internalID: -5757336379699517015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae48c846d10ec40800000000000000
+      internalID: 5539459859357166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9292d624539a000800000000000000
+      internalID: 47627830479628783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819c949e29cd6730800000000000000
+      internalID: 3994069646446465414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a249f343991a850800000000000000
+      internalID: 6386554196272097820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc08e2d1f503b840800000000000000
+      internalID: 5238537327745698999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 127
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c88a928f582fbf0800000000000000
+      internalID: -292023724928365548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c95588c6c74c3a60800000000000000
+      internalID: 7655072385716279752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 127
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13df58f8193e04630800000000000000
+      internalID: 3909374690875276593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 143
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de565a6919930e450800000000000000
+      internalID: 6115951591429596653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 143
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca1402cf3085c830800000000000000
+      internalID: 4090816847862307528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268b3ad173f72cf70800000000000000
+      internalID: 9206060462995912802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fa266c00c047740800000000000000
+      internalID: 5148753471459208990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 95
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf7f622b8ca12f00800000000000000
+      internalID: 1090342298378534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f620d14a234e8e60800000000000000
+      internalID: 7966378639636834041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 95
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d906ef4e42a3d79c0800000000000000
+      internalID: -3927919369862094691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168c18646453a700800000000000000
+      internalID: 550376369689495058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 79
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1695984a31d7950800000000000000
+      internalID: 6448331838864318898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf63b97ea784ff00800000000000000
+      internalID: 1149692988322181057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1149b8303a2abb0800000000000000
+      internalID: -4926195806767934985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 79
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeed0917d66f8b40800000000000000
+      internalID: 5444683548538564317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e6b0eaca6b97630800000000000000
+      internalID: 3925369403000712804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8583526351f08630800000000000000
+      internalID: 3927404215501292941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96d11657ba861270800000000000000
+      internalID: 8220910689839077020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8cc425dce0bfbe0800000000000000
+      internalID: -1442542980630263607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3326b37cd826a60800000000000000
+      internalID: 7665845402572305357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27777657f064dfb00800000000000000
+      internalID: 863923735733172082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544a4617fe7985b0800000000000000
+      internalID: -5365617881339247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bdfdac196af90e0800000000000000
+      internalID: -2260905342812562679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef995d847d52f7de0800000000000000
+      internalID: -1333305358108222978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6019dfbc9cf5bd800800000000000000
+      internalID: 638209092518514950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121d71bca90052c0800000000000000
+      internalID: -4445042194897890785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d68790b24efdf80800000000000000
+      internalID: -8079488332985766554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 50
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9e121a636de7a30800000000000000
+      internalID: 4215041831385295322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba943b41fabe407b0800000000000000
+      internalID: -5258819327662798421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf50e0b235c0d640800000000000000
+      internalID: 5102795199317303236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a8c377821884e0800000000000000
+      internalID: -1979311663256917869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee8d66b2fea4260800000000000000
+      internalID: 7082736333681651431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ae70c67b0add100800000000000000
+      internalID: 134440273542900327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06653c6ab198d6520800000000000000
+      internalID: 2696962503719736928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbc2be6523695740800000000000000
+      internalID: 5141249462042282993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e0e26728595780800000000000000
+      internalID: -8693820679476157388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e965312dd34bf10800000000000000
+      internalID: 2284518883460554359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7370cb295c165e0800000000000000
+      internalID: -1918034732272633946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bddcd9d542fa9d0800000000000000
+      internalID: -2760948062056752267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388698bf6b1653b90800000000000000
+      internalID: -7262791385533028221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37705d6c663bc1850800000000000000
+      internalID: 6349146828689442675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_58
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b46f0814560380800000000000000
+      internalID: -9005417942566521370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380c1287215da1450800000000000000
+      internalID: 6060390523882029187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Convenience Store_60
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c423355b4c7fee0800000000000000
+      internalID: -1227296090371240809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Convenience Store_0: -2773671862024233475
+      Convenience Store_1: 1000119709089540394
+      Convenience Store_10: -8044792768447355524
+      Convenience Store_11: -5757336379699517015
+      Convenience Store_12: 5539459859357166322
+      Convenience Store_13: 47627830479628783
+      Convenience Store_14: 3994069646446465414
+      Convenience Store_15: 6386554196272097820
+      Convenience Store_16: 5238537327745698999
+      Convenience Store_17: -292023724928365548
+      Convenience Store_18: 7655072385716279752
+      Convenience Store_19: 3909374690875276593
+      Convenience Store_2: -4437514597509022020
+      Convenience Store_20: 6115951591429596653
+      Convenience Store_21: 4090816847862307528
+      Convenience Store_22: 9206060462995912802
+      Convenience Store_23: 5148753471459208990
+      Convenience Store_24: 1090342298378534851
+      Convenience Store_25: 7966378639636834041
+      Convenience Store_26: -3927919369862094691
+      Convenience Store_27: 550376369689495058
+      Convenience Store_28: 6448331838864318898
+      Convenience Store_29: 1149692988322181057
+      Convenience Store_3: 1841770632830117056
+      Convenience Store_30: -4926195806767934985
+      Convenience Store_31: 5444683548538564317
+      Convenience Store_32: 3925369403000712804
+      Convenience Store_33: 3927404215501292941
+      Convenience Store_34: 8220910689839077020
+      Convenience Store_35: -1442542980630263607
+      Convenience Store_36: 7665845402572305357
+      Convenience Store_37: 863923735733172082
+      Convenience Store_38: -5365617881339247529
+      Convenience Store_39: -2260905342812562679
+      Convenience Store_4: 664640883116724593
+      Convenience Store_40: -1333305358108222978
+      Convenience Store_41: 638209092518514950
+      Convenience Store_42: -4445042194897890785
+      Convenience Store_43: -8079488332985766554
+      Convenience Store_44: 4215041831385295322
+      Convenience Store_45: -5258819327662798421
+      Convenience Store_46: 5102795199317303236
+      Convenience Store_47: -1979311663256917869
+      Convenience Store_48: 7082736333681651431
+      Convenience Store_49: 134440273542900327
+      Convenience Store_5: 9050848311402499206
+      Convenience Store_50: 2696962503719736928
+      Convenience Store_51: 5141249462042282993
+      Convenience Store_52: -8693820679476157388
+      Convenience Store_53: 2284518883460554359
+      Convenience Store_54: -1918034732272633946
+      Convenience Store_55: -2760948062056752267
+      Convenience Store_56: -7262791385533028221
+      Convenience Store_57: 6349146828689442675
+      Convenience Store_58: -9005417942566521370
+      Convenience Store_59: 6060390523882029187
+      Convenience Store_6: 9161460828943861626
+      Convenience Store_60: -1227296090371240809
+      Convenience Store_7: -7873521168054873398
+      Convenience Store_8: 84392835760675556
+      Convenience Store_9: 955826420122462110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
