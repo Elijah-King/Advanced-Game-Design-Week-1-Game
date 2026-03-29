@@ -148,7 +148,10 @@ public class EnemyAI : MonoBehaviour
     }
 
 
-
+    public void TakeRecoil()
+    {
+        StartCoroutine(EnemyRecoil());
+    }
 
   public  IEnumerator EnemyRecoil()
     {
