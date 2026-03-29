@@ -22,6 +22,7 @@ public class TopEnemyThrower : MonoBehaviour
         {
             yield return new WaitForSeconds(2f);
 
+            // if Pile is empty when trying to throw, break from loop
             if (!PickupFromPile())
                 yield break;
 
