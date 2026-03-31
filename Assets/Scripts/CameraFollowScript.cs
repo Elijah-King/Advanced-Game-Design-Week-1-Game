@@ -2,50 +2,41 @@ using UnityEngine;
 
 public class CameraFollowScript : MonoBehaviour
 {
-    /* Reused script from Q6 project - LF */
-
     public Transform targetTransform;
 
     [Header("Camera Offset")]
     public Vector2 manualOffset = Vector2.zero;
-    Vector3 offset;
+    private Vector3 offset;
 
-    public float cameraMaxHeight, cameraMinHeight;
+    [Header("Camera Limits")]
+    public bool cameraLimitsEnabled = false;
     public float cameraMinX, cameraMaxX;
-    public bool cameraLimitsEnabled = true;
+    public float cameraMinY, cameraMaxY;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        offset =  new Vector3(manualOffset.x, manualOffset.x, transform.position.z);
+        // Correct offset: X, Y, and keep camera Z
+        offset = new Vector3(manualOffset.x, manualOffset.y, transform.position.z);
     }
 
-    // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
-        transform.position = targetTransform.position + offset;
+        if (targetTransform == null)
+            return;
 
-        // If camera limits enabled, ensure camera is within bounds
-        if(cameraLimitsEnabled )
+        // Follow player
+        Vector3 newPos = targetTransform.position + offset;
+
+        // Apply limits if enabled
+        if (cameraLimitsEnabled)
         {
-            // Adjust vertical position
-            if (transform.position.y > cameraMaxHeight)
-                transform.position = new Vector3(transform.position.x, cameraMaxHeight, transform.position.z);
-            else if (transform.position.y < cameraMinHeight)
-                transform.position = new Vector3(transform.position.x, cameraMinHeight, transform.position.z);
-
-            // Adjust horizontal position
-            if (transform.position.x < cameraMinX)
-            {
-                transform.position = new Vector3(cameraMinX, transform.position.y, transform.position.z);
-            }
-            else if (transform.position.x > cameraMaxX)
-            {
-                transform.position = new Vector3(cameraMaxX, transform.position.y, transform.position.z);
-            }
+            newPos.x = Mathf.Clamp(newPos.x, cameraMinX, cameraMaxX);
+            newPos.y = Mathf.Clamp(newPos.y, cameraMinY, cameraMaxY);
         }
 
+        transform.position = newPos;
     }
 }
+
 
 

@@ -7,13 +7,13 @@ public class EnemyAI : MonoBehaviour
 
     // --------------------------------------------------------------------- EnemyGroundCheck variables
 
-  
+
 
     [SerializeField] Transform EnemyGroundCheck;
     [SerializeField] float EnemyGroundCheckRadius = 0.2f;
     [SerializeField] LayerMask EnemyGroundLayer;
 
-     bool isGrounded;
+    bool isGrounded;
 
 
     //--------------------------------------------------------------------- EnemyAgro Logic variables
@@ -69,12 +69,12 @@ public class EnemyAI : MonoBehaviour
 
             jumpTimer -= Time.deltaTime;
 
-            if(jumpTimer <= 0f)
+            if (jumpTimer <= 0f)
             {
                 enemyJump();
                 jumpTimer = jumpDelay;
             }
-        
+
         }
 
 
@@ -82,14 +82,14 @@ public class EnemyAI : MonoBehaviour
 
 
         float distToPlayer = Vector2.Distance(transform.position, player.position);
-        
-         if(distToPlayer < agroRange)
+
+        if (distToPlayer < agroRange)
         {
-          
+
         }
-    
-    
-    
+
+
+
     }
 
 
@@ -128,23 +128,23 @@ public class EnemyAI : MonoBehaviour
 
     void ChasePlayer()
     {
-        if(transform.position.x < player.position.x)
+        if (transform.position.x < player.position.x)
         {
-           // enemy is on left side, so move right
+            // enemy is on left side, so move right
             rb2d.linearVelocity = new Vector2(moveSpeed, 0);
 
         }
-        else 
+        else
         {
-           
+
             // enemy is on right side, so move left
             rb2d.linearVelocity = new Vector2(-moveSpeed, 0);
         }
-    
-    
-    
-    
-    
+
+
+
+
+
     }
 
 
@@ -153,7 +153,7 @@ public class EnemyAI : MonoBehaviour
         StartCoroutine(EnemyRecoil());
     }
 
-  public  IEnumerator EnemyRecoil()
+    public IEnumerator EnemyRecoil()
     {
         isRecoiling = true;
 
@@ -178,3 +178,7 @@ public class EnemyAI : MonoBehaviour
 
 
 }
+
+
+
+

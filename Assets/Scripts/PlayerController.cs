@@ -1,5 +1,6 @@
 using System.ComponentModel.Design.Serialization;
 using System.Diagnostics;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -15,20 +16,15 @@ public class PlayerController : MonoBehaviour
 
     [SerializeField] float velPower = 1.2f;
 
-    [SerializeField] float jumpSpeed = 5f;
-
-    [SerializeField] float gravityMultiplier = 2f;
 
     public Rigidbody2D rb;
 
-    [SerializeField] Transform groundCheck;
-    [SerializeField] float groundCheckRadius = 0.2f;
-    [SerializeField] LayerMask PlayerGroundLayer;
-    SpriteRenderer spriteRenderer;
 
-    bool isGrounded;
+    // ------------------------------------------------------------------------------
 
+    // variables for boundry
 
+    public float pushBackForce = 0.1f;
 
 
 
@@ -52,11 +48,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
        
-            isGrounded = Physics2D.OverlapCircle(
-                groundCheck.position,
-                groundCheckRadius,
-                PlayerGroundLayer
-            );
+      
         
 
     }
@@ -68,34 +60,34 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        float targetSpeed = moveInput.x * moveSpeed;
+        // Desired movement direction
+        Vector2 targetVelocity = moveInput * moveSpeed;
 
-        float speedDif = targetSpeed - rb.linearVelocity.x;
+        // Smooth acceleration toward target velocity
+        Vector2 velocityDiff = targetVelocity - rb.linearVelocity;
 
-        float accelRate = (Mathf.Abs(targetSpeed) > 0.01f) ? acceleration : decceleration;
+        float accelRate = (targetVelocity.magnitude > 0.01f) ? acceleration : decceleration;
 
-        float movement = Mathf.Pow(Mathf.Abs(speedDif) * accelRate, velPower) * Mathf.Sign(speedDif);
+        Vector2 movement = velocityDiff * accelRate;
 
-        rb.AddForce(movement * Vector2.right);
-
-        if (rb.linearVelocity.y < 0)
-        {
-            rb.AddForce(Vector2.down * gravityMultiplier, ForceMode2D.Force);
-        }
-
-  
+        rb.AddForce(movement);
     }
 
-    public void PlayerJump(InputAction.CallbackContext ctx)
+
+
+    public void OnTriggerEnter2D(Collider2D collision)
     {
-       
-
-        if (ctx.performed && isGrounded)
+        if (collision.CompareTag("Boundry"))
         {
-            rb.AddForce(Vector2.up * jumpSpeed, ForceMode2D.Impulse);
-            
+            Vector2 direction = (Vector2)transform.position - collision.ClosestPoint(transform.position).normalized;
+            transform.position += (Vector3)(direction * pushBackForce);
         }
     }
+
+
+
+
+
 
     public void PlayerAttack(InputAction.CallbackContext ctx)
     {
@@ -109,15 +101,7 @@ public class PlayerController : MonoBehaviour
       
     }
 
-    void OnDrawGizmosSelected()
-    {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
-        }
 
-    }
 }
 
 
