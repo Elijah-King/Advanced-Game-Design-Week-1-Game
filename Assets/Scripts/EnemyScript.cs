@@ -33,7 +33,7 @@ public class EnemyScript : MonoBehaviour
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
-        healthBar.fillAmount = currentHealth / maxHealth;
+        healthBar.fillAmount = (float) currentHealth / maxHealth;
         if (currentHealth <= 0)
         {
             EnemyDeath();
